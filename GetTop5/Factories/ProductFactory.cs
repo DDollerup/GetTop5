@@ -8,5 +8,6 @@ namespace GetTop5.Factories
 {
     public class ProductFactory : AutoFactory<Product>
     {
+
     }
 }
